@@ -19,4 +19,3 @@ print(f'{name} is {age} years old.')
 
 
 
-
